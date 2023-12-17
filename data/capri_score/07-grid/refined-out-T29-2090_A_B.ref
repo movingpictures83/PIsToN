@@ -1,0 +1,41 @@
+After Refinement: 
+########### Program Parameters ##################
+ACEWeight	(Str)	1.6
+HBWeight	(Str)	1.2
+aliphWeight	(Str)	2.5
+attrElWeight	(Str)	0.21
+attrVdWWeight	(Str)	1.5
+catpiWeight	(Str)	0.7
+confProbWeight	(Str)	0.0
+energiesOutFileName	(Str)	/home/vsteb002/piston/data/20R_training/../../data/capri_score/piston_prepare_20R/02-refined_pdb//T29-2090_A_B//refined-out-T29-2090_A_B
+extraRotamers	(Int)	0
+flexibleLigandChains	(Str)	
+flexibleReceptorChains	(Str)	
+insidenessWeight	(Str)	0.7
+l_attrElWeight	(Str)	0.0
+l_repElWeight	(Str)	0.69
+ligandFixedResiduesFile	(Str)	
+ligandFlexibleResiduesFile	(Str)	
+ligandOnlyClashesMovable	(Int)	1
+ligandPDBFileName	(Str)	/home/vsteb002/DeepDeltaAff/data/benchmark_deepRank/piston_prepare/01-protonated_pdb//T29-2090_B.pdb.CHB.pdb
+lpMethod	(Int)	2
+onlyEnergyCalculation	(Int)	0
+pdbConventionFile	(Str)	
+pipiWeight	(Str)	1.0
+printRefinedComplexes	(Int)	1
+protLib	(Str)	/FireDock/lib/chem.lib
+radiiScaling	(Str)	0.8
+receptorFixedResiduesFile	(Str)	
+receptorFlexibleResiduesFile	(Str)	
+receptorOnlyClashesMovable	(Int)	1
+receptorPDBFileName	(Str)	/home/vsteb002/DeepDeltaAff/data/benchmark_deepRank/piston_prepare/01-protonated_pdb//T29-2090_A.pdb.CHB.pdb
+repElWeight	(Str)	0.21
+repVdWWeight	(Str)	0.8
+rigidBodyMinimizationCycles	(Int)	50
+rotamerLibFile	(Str)	/FireDock/lib/bbdep02.May.sortlib
+templateLigandPDBFileName	(Str)	
+templateReceptorPDBFileName	(Str)	
+transFileName	(Str)	/home/vsteb002/piston/utils/../third_party/firedock_params/default.trans
+#################################################
+    Sol # |    Lrmsd |    Irmsd | st_Lrmsd | st_Irmsd |     glob |     aVdW |     rVdW |      ACE |   inside |    aElec |    rElec |   laElec |   lrElec |       hb |      piS |   catpiS |    aliph |     prob |
+1	|     0.73 |     0.37 |     0.00 |     0.00 |   -27.40 |   -36.21 |    12.63 |     9.22 |    18.80 |   -73.75 |    10.23 |   -22.09 |    18.58 |    -2.66 |    -6.00 |    -2.00 |     0.00 |     0.00 |-0.008536 0.005787 0.005796 0.242156 0.829377 0.254928
