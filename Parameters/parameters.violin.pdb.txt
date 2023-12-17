@@ -1,0 +1,3 @@
+scorefile	PickleJar/pdb.gnndove.pkl
+x	CAPRI_quality
+y	PIsToN

@@ -1,0 +1,6 @@
+PDB_DIR	data/PDB_2023/docking_models_2023/
+GRID_DIR	data/PDB_2023/grid16R/
+out_scores	data/PDB_2023/dmasif_out.csv
+complexes	data/PDB_2023/complexes2023.txt
+dockingmodels	data/PDB_2023/all_docking_models.txt
+modelfile	PickleJar/model.pkl

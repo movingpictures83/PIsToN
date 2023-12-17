@@ -1,0 +1,3 @@
+scorefile	PickleJar/dmasif.pkl
+x	capri_quality
+y	PISToN

@@ -1,0 +1,6 @@
+scorefile	PickleJar/attn.negative.pkl
+x	feature
+y	attn
+order	features.txt
+ylim1	0.158
+ylim2	0.27

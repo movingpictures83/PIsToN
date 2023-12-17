@@ -1,0 +1,3 @@
+scorefile	PickleJar/attn.merge.pkl
+x	feature
+y	attn

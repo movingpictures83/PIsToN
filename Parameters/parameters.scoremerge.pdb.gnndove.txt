@@ -1,0 +1,8 @@
+pickle	PickleJar/pdb.piston.pkl
+csvfile	data/PDB_2023/GNN_DOVE_out.txt
+PPI	Input
+split	true
+GNN_DOVE	Score
+on	PPI
+PPI
+GNN_DOVE

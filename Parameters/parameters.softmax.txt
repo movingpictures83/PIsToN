@@ -1,0 +1,9 @@
+dataset	PickleJar/inference.pkl
+labelsfile	scores/output.label.dict.csv
+toolsfile	tools.txt
+uniquepid	PickleJar/capri.uniquepid.pkl
+qualitydir	data/capri_score/
+qualityname	capri
+root	PISToN
+testlist	PickleJar/capri.testlist.pkl
+unprocessed	PickleJar/capri.unprocessed.pkl

@@ -1,0 +1,9 @@
+pickle	PickleJar/deeprank.pkl
+csvfile	data/capri_score/dmasif_out.csv
+pid	PPI
+splittwice	false
+on	pid
+how	left
+dMaSIF	avg_score
+pid
+dMaSIF

@@ -1,0 +1,9 @@
+modeldir	saved_models/
+modelname	PIsToN_multiAttn_contrast
+dim_head	16
+hidden_size	16
+dropout	0
+attn_dropout	0
+n_heads	8
+patch_size	4
+transformer_depth	8

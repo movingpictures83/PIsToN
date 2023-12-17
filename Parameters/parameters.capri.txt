@@ -1,0 +1,3 @@
+CAPRI_DIR	data/capri_score/
+GRID_DIR	piston_prepare/07-grid/
+CAPRI_LIST_FILE	capri_list_models.txt

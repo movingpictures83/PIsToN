@@ -1,0 +1,4 @@
+pickle	PickleJar/torches.pkl
+csvfile	data/masif_test/capri_quality_masif_test.csv
+grid	grids/prepare_energies_16R/07-grid/
+original	data/lists/masif_test_original.txt

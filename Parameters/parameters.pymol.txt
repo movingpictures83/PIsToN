@@ -1,0 +1,4 @@
+grid	grids/prepare_energies_16R_native/07-grid/
+attn_native	PickleJar/native.attn.pkl
+attn_spatial	PickleJar/spatial.pkl
+id	1J3R_A_B

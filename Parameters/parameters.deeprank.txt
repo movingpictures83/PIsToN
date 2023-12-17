@@ -1,0 +1,3 @@
+inputdir	data/capri_score/
+toolsfile	scores.txt
+uniquepid	PickleJar/capri.uniquepid.pkl

@@ -1,0 +1,4 @@
+model	PickleJar/model.pkl
+grid	grids/prepare_energies_16R_native/07-grid/
+ppi	PPI.txt
+picklejar	PickleJar/

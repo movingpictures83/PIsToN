@@ -1,0 +1,6 @@
+pickle	PickleJar/pdb.dockingquality.pkl
+csvfile	data/PDB_2023/dmasif_out.csv
+on	PPI
+dMaSIF	avg_score
+PPI
+dMaSIF

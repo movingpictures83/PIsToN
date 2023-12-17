@@ -1,0 +1,3 @@
+csvfile	PickleJar/dmasif.pkl
+label	CAPRI
+other_labels	other_labels.second.txt
